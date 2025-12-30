@@ -41,9 +41,11 @@ and Vivado synthesis.
 ---
 
 ## Repository Structure
-rtl/ - RTL design files
-tb/ - Testbench
-docs/ - Simulation and synthesis results
+```
+rtl/    - RTL design files
+tb/     - Testbench
+docs/   - Simulation and synthesis results
+```
 
 
 ---
