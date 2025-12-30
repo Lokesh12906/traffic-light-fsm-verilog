@@ -1,0 +1,16 @@
+# Simulation
+*.vcd
+*.log
+*.wlf
+
+# Vivado
+.vivado/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.xpr
+
+# OS
+.DS_Store
+Thumbs.db
