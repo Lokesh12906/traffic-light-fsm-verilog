@@ -45,8 +45,6 @@ rtl/ - RTL design files
 tb/ - Testbench
 docs/ - Simulation and synthesis results
 
-yaml
-Copy code
 
 ---
 
